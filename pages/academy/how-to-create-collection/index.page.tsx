@@ -129,7 +129,7 @@ const HowToCreateCollection: NextPageWithLayout = () => {
             <p>
               Once you are done with your research and know what your collection
               is going to be all about, let&apos;s head ove the left menu button
-              Creaate Collection inside of app.centher.io, creating collections
+              Creaate Collection inside of centher-app.vercel.app, creating collections
               like NFTs alike is aa feature that only Citizens can access, so if
               you haven&apos;t done that yet, head over to Purchae Citizenship
               and become a member now!

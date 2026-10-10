@@ -33,14 +33,18 @@ const Section1 = () => {
           </p>
         </div>
         <div className="headerImg relative -mt-3 lgTab:mt-6 px-3 overflow-hidden w-full lgTab:w-[80%]">
-          <Image
+          {/* Native img so preload href matches the real LCP request (next/image uses /_next/image). */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
             src="/images/socialnftwork.webp"
             alt="Centher Social NFTwork platform preview"
             width={1282}
             height={720}
-            priority
-            quality={70}
-            sizes="(max-width: 993px) 100vw, 80vw"
+            decoding="async"
+            loading="eager"
+            // @ts-expect-error React 18 types; lowercase required for the attribute
+            fetchpriority="high"
+            className="w-full h-auto"
           />
           <div className="absolute top-0 left-0 lgTab:left-6 px-3 w-full lgTab:w-[90%]">
             <Image

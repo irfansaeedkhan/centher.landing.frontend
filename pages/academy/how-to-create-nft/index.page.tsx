@@ -24,7 +24,7 @@ const HowToCreateNFT: NextPageWithLayout = () => {
             <p>
               Make sure you have already purchased your{" "}
               <a
-                href="https://centher.io/citizenship"
+                href="https://centher-app.vercel.app/citizenship"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"

@@ -18,7 +18,7 @@ export const Footer: React.FC = () => {
             &copy;CENTHER Decentralized Autonomous Organization All rights
             reserved.
             <a
-              href="https://app.centher.io/terms"
+              href="https://centher-app.vercel.app/terms"
               target="_blank"
               rel="noreferrer"
               className="ml-1 inline-block text-xs smTab:text-sm font-semibold text-grayLight underline"

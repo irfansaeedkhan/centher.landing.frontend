@@ -27,7 +27,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
               Citizen in order to benefit from this Service. If you haven&apos;t
               gotten your Passport yet,{" "}
               <a
-                href="https://app.centher.io/citizenship"
+                href="https://centher-app.vercel.app/citizenship"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"

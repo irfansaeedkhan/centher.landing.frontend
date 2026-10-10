@@ -50,23 +50,17 @@ const MetaHead = () => {
         content="cmqFPwe-1bs7Dscw6QxvdWPAQ52MuaUV2RrfhE17oo8"
       />
 
-      {/* Only the true LCP asset + above-fold font weights get preloads */}
+      {/* Only the true LCP asset — must match the <img src> exactly (not /_next/image). */}
       <link
         rel="preload"
         as="image"
         href="/images/socialnftwork.webp"
-        {...({ fetchPriority: "high" } as React.LinkHTMLAttributes<HTMLLinkElement>)}
+        // @ts-expect-error lowercase fetchpriority is required in the DOM
+        fetchpriority="high"
       />
       <link
         rel="preload"
         href="/fonts/montserrat/montserrat-alternates-600.woff2"
-        as="font"
-        type="font/woff2"
-        crossOrigin="anonymous"
-      />
-      <link
-        rel="preload"
-        href="/fonts/montserrat/montserrat-alternates-500.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"

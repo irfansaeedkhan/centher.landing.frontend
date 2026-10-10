@@ -99,7 +99,7 @@ function Header2() {
             `items-center justify-between hidden w-full md:flex md:w-auto`
           )}
         >
-          <ul className="flex flex-col p-4 md:p-0 w-full items-center justify-between">
+          <div className="flex flex-col p-4 md:p-0 w-full items-center justify-between">
             <div className="flex w-full text-center items-center gap-2">
               <Link href="/academy/centher-features">
                 <Button
@@ -108,7 +108,7 @@ function Header2() {
                   className="btnTest"
                 />
               </Link>
-              <Link href="https://app.centher.io">
+              <Link href="https://centher-app.vercel.app">
                 <Button
                   title="Launch app NOW!"
                   variant="primary"
@@ -116,7 +116,7 @@ function Header2() {
                 />
               </Link>
             </div>
-          </ul>
+          </div>
         </div>
         {/* mobile */}
         <div
@@ -126,7 +126,7 @@ function Header2() {
             isOpen ? "flex sm:hidden" : "hidden"
           )}
         >
-          <ul className="flex flex-col p-4 md:p-0 mt-4 min-h-[90vh] w-full items-center justify-between pt-12">
+          <div className="flex flex-col p-4 md:p-0 mt-4 min-h-[90vh] w-full items-center justify-between pt-12">
             <div className="flex flex-col w-full text-center items-center">
               <Link href="/academy/centher-features">
                 <Button
@@ -139,7 +139,7 @@ function Header2() {
                 />
               </Link>
               <div className="h-[1px] bg-[#202027] w-full mt-1 mb-8" />
-              <Link href="https://app.centher.io">
+              <Link href="https://centher-app.vercel.app">
                 <Button
                   title="Launch app NOW!"
                   variant="primary"
@@ -156,7 +156,7 @@ function Header2() {
                   &copy;CENTHER Decentralized Autonomous Organization All rights
                   reserved.{" "}
                   <a
-                    href="https://app.centher.io/terms"
+                    href="https://centher-app.vercel.app/terms"
                     target="_blank"
                     rel="noreferrer"
                     className="ml-1 inline-block text-xs smTab:text-sm font-semibold text-grayLight underline"
@@ -166,7 +166,7 @@ function Header2() {
                 </p>
               </div>
             </div>
-          </ul>
+          </div>
         </div>
       </div>
     </nav>
