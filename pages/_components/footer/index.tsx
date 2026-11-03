@@ -25,6 +25,14 @@ export const Footer: React.FC = () => {
             >
               Terms &amp; Conditions
             </a>
+            <a
+              href="https://sociaket-app.vercel.app/terms"
+              target="_blank"
+              rel="noreferrer"
+              className="ml-1 inline-block text-xs smTab:text-sm font-semibold text-grayLight underline"
+            >
+              Privacy
+            </a>
           </p>
         </div>
       </nav>
