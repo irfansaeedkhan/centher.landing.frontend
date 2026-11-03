@@ -8,13 +8,13 @@ const SociaketUpcomingFeatures: NextPageWithLayout = () => {
   return (
     <div>
       <h2 className="text-gradient text-20px font-semibold pt-6 px-4 pb-6 lg:px-8 lg:pt-10">
-        Upcoming Features
+        Sociaket Upcoming Features
       </h2>
       <Image
         width={925}
         height={420}
-        src="/images/centher-upcoming-features-banner.png"
-        alt="what is staking"
+        src="/images/sociaket-upcoming-features-banner.png"
+        alt="Sociaket upcoming features banner"
         className="w-full"
       />
       <div className="content p-5 lg:p-8 text-grayText text-sm font-normal">
