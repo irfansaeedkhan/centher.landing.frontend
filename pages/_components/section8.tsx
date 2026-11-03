@@ -132,7 +132,7 @@ const Section8 = () => {
                   just a few easy steps.
                 </p>
               </div>
-              <VideoBox Videolink="https://www.youtube.com/embed/73FEEvoL-5c" />
+              <VideoBox Videolink="https://www.youtube.com/embed/Kp_wrZsKAvs" />
               <div className="cardFooter mt-9">
                 <TabLine />
               </div>
@@ -151,7 +151,7 @@ const Section8 = () => {
                   using referral link in just a few easy steps.
                 </p>
               </div>
-              <VideoBox Videolink="https://www.youtube.com/embed/sYSiZRJvY_Q" />
+              <VideoBox Videolink="https://www.youtube.com/embed/Kp_wrZsKAvs" />
               <div className="cardFooter mt-9">
                 <TabLine />
               </div>
@@ -168,7 +168,7 @@ const Section8 = () => {
                   You will learn how to download Metamask in few and easy steps.
                 </p>
               </div>
-              <VideoBox Videolink="https://www.youtube.com/embed/SX0DKogFvT8" />
+              <VideoBox Videolink="https://www.youtube.com/embed/Kp_wrZsKAvs" />
               <div className="cardFooter mt-9">
                 <TabLine />
               </div>
