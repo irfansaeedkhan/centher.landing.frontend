@@ -19,11 +19,11 @@ const Section1 = () => {
         />
       </div>
       <div className="z-10 flex flex-col items-start mdTab:items-center gap-8 maxWidth">
-        <HeadingBox className="w-[250px]">CENTHER IS HERE</HeadingBox>
+        <HeadingBox className="w-[250px]">SOCIAKET IS HERE</HeadingBox>
         <AnimatedBox />
         <div className="flex flex-col gap-8 max-w-[1174px]">
           <h1 className="heading animationText">
-            The First Social NFTwork With You At Centher!
+            The First Social NFT Network, Built For You, On Sociaket!
           </h1>
           <p className="text-20px text-grayLight font-medium max-w-[948px] mx-auto">
             The only Social Network designed for a new generation of
@@ -37,7 +37,7 @@ const Section1 = () => {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src="/images/socialnftwork.webp"
-            alt="Centher Social NFTwork platform preview"
+            alt="Sociaket Social NFT Network platform preview"
             width={1282}
             height={720}
             decoding="async"

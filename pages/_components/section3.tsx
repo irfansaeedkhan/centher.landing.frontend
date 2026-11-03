@@ -36,8 +36,8 @@ const Section3 = () => {
           </h2>
           <div className="flex flex-col gap-5 [&>*]:text-17px [&>*]:text-grayLight [&>*]:font-medium [&>*]:leading-7 max-w-[656px]">
             <p>
-              CENTHER is the world&apos;s first Social Network where you choose
-              the level of privacy about your identity.
+              SOCIAKET is the social network that lets you pick how much of
+              your identity you share.
             </p>
             <p>
               You can appear with your real name, you can choose to use a

@@ -114,7 +114,7 @@ const TotalSupply: NextPageWithLayout = () => {
                 beneficial partnership between merchants and affiliates.
               </p>
               <p>
-                Centher&apos;s affiliate system allows to expand your network up
+                Sociaket&apos;s affiliate system allows to expand your network up
                 to 6 levels of affiliation. Every transaction paid by the users
                 in the affiliate program generates revenue for the referrer
                 allowing them to earn just by inviting active users to the

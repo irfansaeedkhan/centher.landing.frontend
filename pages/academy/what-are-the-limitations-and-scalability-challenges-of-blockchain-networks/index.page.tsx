@@ -101,7 +101,7 @@ const WhatAreTheLimitationsAndScalabilityChallengesOfBlockchainNetworks: NextPag
                 </p>
                 <p>
                   <span className="font-medium">Solution:</span> RCross-chain
-                  interoperability protocols, such as Centher, Polkadot and
+                  interoperability protocols, such as Sociaket, Polkadot and
                   Cosmos, are being developed to facilitate communication and
                   asset transfer between different blockchains. These protocols
                   aim to create a network of interconnected chains, reducing

@@ -42,7 +42,7 @@ const HowToCreateNFT: NextPageWithLayout = () => {
               alt="How to create a NFT"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <p>
             Before you create a NFT you might want to{" "}
@@ -70,14 +70,14 @@ const HowToCreateNFT: NextPageWithLayout = () => {
               alt="How to create a NFT"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <p>
             After you have uploaded the file you&apos;ll need to fill in the
             NAME, DESCRIPTION, NFT SYMBOL, AMOUNT, PRICE, CATEGORY and
             COLLECTION (which can be the same you have previously created or
-            Centher Native Collection). You can choose to sell for a fixed price
-            or have an Auction placed on Centher&apos;s marketplace by clicking
+            Sociaket Native Collection). You can choose to sell for a fixed price
+            or have an Auction placed on Sociaket&apos;s marketplace by clicking
             the button &ldquo;Auction&ldquo; on the top. of the following image.
           </p>
           <div className="flex flex-col items-center justify-center gap-2 py-8">
@@ -88,7 +88,7 @@ const HowToCreateNFT: NextPageWithLayout = () => {
               alt="How to create a NFT"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <p>
             Metadata (Properties) are not mandatory fields but your preview
@@ -102,7 +102,7 @@ const HowToCreateNFT: NextPageWithLayout = () => {
               alt="How to create a NFT"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <p>
             If you are satisfied with your NFT Preview click on submit on the
