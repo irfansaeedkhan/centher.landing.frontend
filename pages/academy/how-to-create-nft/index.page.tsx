@@ -24,7 +24,7 @@ const HowToCreateNFT: NextPageWithLayout = () => {
             <p>
               Make sure you have already purchased your{" "}
               <a
-                href="https://centher-app.vercel.app/citizenship"
+                href="https://sociaket-app.vercel.app/citizenship"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -47,7 +47,7 @@ const HowToCreateNFT: NextPageWithLayout = () => {
           <p>
             Before you create a NFT you might want to{" "}
             <a
-              href="https://centher.io/how-to-create-collection"
+              href="https://sociaket.vercel.app/how-to-create-collection"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gradient"
