@@ -8,7 +8,7 @@ const SociaketFuturePlans: NextPageWithLayout = () => {
   return (
     <div>
       <h2 className="text-gradient text-20px font-semibold pt-6 px-4 pb-6 lg:px-8 lg:pt-10">
-        Plans For The Next Few Months
+        Sociaket Plans For The Next Few Months
       </h2>
       <Image
         width={925}
