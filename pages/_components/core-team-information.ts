@@ -36,7 +36,7 @@ export const coreTeam: CoreTeam = [
     properties: [
       {
         property:
-          "Head of the Technology Department for the development of CENTHER&apos;s decentralized infrastructure",
+          "Head of the Technology Department for the development of SOCIAKET&apos;s decentralized infrastructure",
       },
       {
         property: "Architect on Blockchain-based businesses",
@@ -124,7 +124,7 @@ export const coreTeam: CoreTeam = [
         property: "Female Empowerment",
       },
       {
-        property: "Centher Performer",
+        property: "Sociaket Performer",
       },
       {
         property: "Communication Leader",
@@ -143,7 +143,7 @@ export const coreTeam: CoreTeam = [
     social_media_icon: LinkedIn,
     properties: [
       {
-        property: "Business developer of Centher in the APAC Region",
+        property: "Business developer of Sociaket in the APAC Region",
       },
       {
         property: "Chief Strategy Officer - Twenty Two",

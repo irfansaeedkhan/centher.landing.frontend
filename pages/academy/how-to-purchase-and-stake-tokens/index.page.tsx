@@ -38,13 +38,13 @@ const HowToPurchaseStakeTokens: NextPageWithLayout = () => {
               alt="what is staking"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <div>
             <h5 className="text-white">Staking Altcoins</h5>
             <p>
               If you instead want to invest in a project involving Altcoins
-              available on Centher, head to Launchpad on the left side menu and
+              available on Sociaket, head to Launchpad on the left side menu and
               purchase your tokens by adding the amount you want to buy in the
               form shown below, which you&apos;ll find at the top right of the
               page:
@@ -58,7 +58,7 @@ const HowToPurchaseStakeTokens: NextPageWithLayout = () => {
               alt="what is staking"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <p>
             After you swapped your tokens, head to Staking page again and follow

@@ -23,7 +23,7 @@ function Header2() {
         >
           <Image
             src="/images/Logo.webp"
-            alt="Centher"
+            alt="Sociaket"
             width={138}
             height={38}
             sizes="138px"
@@ -34,11 +34,11 @@ function Header2() {
             pathname: "/",
           }}
           className="block smTab:hidden"
-          aria-label="Centher home"
+          aria-label="Sociaket home"
         >
           <Image
             src="/images/mobileLogo.webp"
-            alt="Centher"
+            alt="Sociaket"
             width={38}
             height={38}
             sizes="38px"
@@ -103,7 +103,7 @@ function Header2() {
             <div className="flex w-full text-center items-center gap-2">
               <Link href="/academy/centher-features">
                 <Button
-                  title="Centher Academy"
+                  title="Sociaket Academy"
                   variant="borderless"
                   className="btnTest"
                 />
@@ -130,7 +130,7 @@ function Header2() {
             <div className="flex flex-col w-full text-center items-center">
               <Link href="/academy/centher-features">
                 <Button
-                  title="Centher Academy"
+                  title="Sociaket Academy"
                   variant="borderless"
                   className="btnTest"
                   onClick={() => {
@@ -153,7 +153,7 @@ function Header2() {
             <div className="flex flex-col ">
               <div className="text-center flex flex-wrap items-center justify-center">
                 <p className="inline-block text-xs smTab:text-sm font-normal text-grayLight">
-                  &copy;CENTHER Decentralized Autonomous Organization All rights
+                  &copy;SOCIAKET Decentralized Autonomous Organization All rights
                   reserved.{" "}
                   <a
                     href="https://centher-app.vercel.app/terms"

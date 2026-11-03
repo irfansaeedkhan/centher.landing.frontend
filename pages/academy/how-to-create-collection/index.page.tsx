@@ -152,7 +152,7 @@ const HowToCreateCollection: NextPageWithLayout = () => {
               alt="How to create a collection"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <div>
             <h5 className="text-white">Upload a Banner Image</h5>
@@ -170,7 +170,7 @@ const HowToCreateCollection: NextPageWithLayout = () => {
               alt="How to create a collection"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <div className="flex flex-col gap-4">
             <p>

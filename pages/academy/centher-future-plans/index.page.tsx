@@ -20,16 +20,14 @@ const CentherFuturePlans: NextPageWithLayout = () => {
       <div className="content p-5 lg:p-8 text-grayText text-sm font-normal">
         <div className="flex flex-col gap-3  pb-5">
           <p className="relative before:w-[3px] before:h-[100%] before:top-[50%] before:translate-y-[-50%] before:bg-anchor before:block before:absolute before:left-0 pl-3">
-            Centher.io Redefines Convenience with Two Game-Changing Apps:
+            Sociaket Makes Trading And Mobile Use Simpler With Two New Apps:
             Trading Service and a Modular Mobile App.
           </p>
           <p>
-            Centher.io is on the brink of unleashing two revolutionary apps that
-            are set to redefine the way users navigate the world of
-            cryptocurrency and blockchain services. These upcoming releases
-            promise to simplify trading and enhance the user experience with a
-            modular mobile app, providing users with unprecedented flexibility
-            and control.
+            Sociaket is about to release two new apps that change how you
+            move through crypto and blockchain services. They make trading
+            simpler and give you a modular mobile app, so you get more
+            flexibility and more control.
           </p>
         </div>
         <h5 className="text-white relative before:w-[3px] before:h-[100%] before:top-[50%] before:translate-y-[-50%] before:bg-anchor before:block before:absolute before:left-0 pl-2">
@@ -37,7 +35,7 @@ const CentherFuturePlans: NextPageWithLayout = () => {
         </h5>
         <p className="pl-2">
           Imagine having all your preferred cryptocurrency exchanges at your
-          fingertips within a single app. Centher.io&apos;s Trading Service is
+          fingertips within a single app. Sociaket&apos;s Trading Service is
           precisely that - a universal trading hub that enables users to connect
           their preferred cryptocurrency exchanges seamlessly. Here&apos;s what
           this game-changing feature entails:
@@ -48,7 +46,7 @@ const CentherFuturePlans: NextPageWithLayout = () => {
             <p>
               Users can select and connect to the exchanges they trust and
               prefer. This means you can trade on multiple exchanges, all from
-              the convenience of Centher.io, without the hassle of switching
+              the convenience of Sociaket, without the hassle of switching
               between different platforms or applications.
             </p>
           </div>
@@ -65,7 +63,7 @@ const CentherFuturePlans: NextPageWithLayout = () => {
             <h5 className="text-white">Enhanced Security</h5>
             <p>
               Your private trading data and information remain secure within
-              Centher.io&apos;s privacy-centric environment. You can confidently
+              Sociaket&apos;s privacy-centric environment. You can confidently
               trade without worrying about exposing your personal details to
               multiple exchanges.
             </p>
@@ -73,7 +71,7 @@ const CentherFuturePlans: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">Real-time Insights</h5>
             <p>
-              Centher.io&apos;s Trading Service provides real-time insights and
+              Sociaket&apos;s Trading Service provides real-time insights and
               analytics, giving you a comprehensive view of your trading
               activity across various exchanges, making informed decisions
               easier than ever.
@@ -85,7 +83,7 @@ const CentherFuturePlans: NextPageWithLayout = () => {
               Experience)
             </h5>
             <p className="pl-2">
-              Centher.io&apos;s upcoming mobile app is designed to offer users
+              Sociaket&apos;s upcoming mobile app is designed to offer users
               an all-encompassing and customizable experience without the need
               for a Metamask browser extension. Here&apos;s what sets it apart:
             </p>
@@ -93,7 +91,7 @@ const CentherFuturePlans: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">Create or Import Wallets</h5>
             <p>
-              You&apos;ll have the freedom to generate a Centher Wallet for a
+              You&apos;ll have the freedom to generate a Sociaket Wallet for a
               seamless experience or import an existing wallet of your choice.
               This versatility ensures you can manage your digital assets in a
               way that suits your preferences.
@@ -121,14 +119,12 @@ const CentherFuturePlans: NextPageWithLayout = () => {
           <div className="pt-5">
             <div className="flex flex-col gap-3">
               <p>
-                By offering these features, Centher.io is empowering users to
-                take control of their crypto journey like never before. Whether
-                you&apos;re a seasoned trader or just beginning to explore the
-                blockchain space, these apps will simplify your experience,
-                enhance your privacy, and provide a level of customization
-                that&apos;s unmatched in the industry. Centher.io is leading the
-                charge in bringing simplicity, security, and convenience to the
-                world of cryptocurrency.
+                By offering these features, Sociaket gives you real control
+                over your crypto journey, whether you trade every day or are
+                just starting to explore blockchain. These apps simplify your
+                experience, protect your privacy, and let you shape the app
+                around your own needs. Sociaket brings simplicity, security,
+                and convenience to the world of cryptocurrency.
               </p>
             </div>
           </div>

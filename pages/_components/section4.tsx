@@ -34,8 +34,8 @@ const Section4 = () => {
             never the real owner of your own content.
           </p>
           <p>
-            With CENTHER Your content instead becomes assets that you can
-            actually dispose of according to your will.
+            With SOCIAKET, your posts turn into assets you control and use
+            as you choose.
           </p>
           <p>
             You can NEVER be assured of building something lasting if you can

@@ -23,7 +23,7 @@ export const AcademyLayout: React.FC<Props> = ({ children }) => {
   return (
     <div className="maxWidth w-full lg:px-3 flex flex-col gap-3 pb-10 lg:gap-11 lg:pt-12 mt-[90px] mdTab:mt-[120px]">
       <Pattern className="bg-red-500 absolute bottom-0 left-0" />
-      <h1 className="text-48px text-gradient font-semibold">Centher Academy</h1>
+      <h1 className="text-48px text-gradient font-semibold">Sociaket Academy</h1>
       <div className="flex gap-7 min-h-screen w-full z-10">
         <div className="w-[28%] bg-elevationDark border border-anchor rounded-[20px] p-6 hidden flex-col gap-3 lgTab:flex">
           {AcademySidebarData.map((item) => {

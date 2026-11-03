@@ -20,15 +20,15 @@ const CentherUpcomingFeatures: NextPageWithLayout = () => {
       <div className="content p-5 lg:p-8 text-grayText text-sm font-normal">
         <div className="flex flex-col gap-3">
           <p className="relative before:w-[3px] before:h-[100%] before:top-[50%] before:translate-y-[-50%] before:bg-anchor before:block before:absolute before:left-0 pl-3">
-            Centher.io Unveils Exciting New Features for Enhanced User
-            Experience.
+            Sociaket Adds New Features That Make Your Experience Smoother
+            And Safer.
           </p>
           <p>
-            Centher.io, the innovative platform known for its commitment to user
-            privacy and security, is thrilled to announce a series of upcoming
-            features that will further elevate your online experience. These new
-            additions will not only enhance user engagement but also provide an
-            even more seamless and secure environment for all Centher.io users.
+            Sociaket, a platform built around user privacy and security, is
+            adding a series of upcoming features that lift your online
+            experience further. These new additions raise engagement and
+            give you an even smoother and safer place to spend time online,
+            for all Sociaket users.
           </p>
         </div>
         <h5 className="text-white py-5">Upcoming Services:</h5>
@@ -37,7 +37,7 @@ const CentherUpcomingFeatures: NextPageWithLayout = () => {
             <h5 className="text-white">Airdrop as a Service</h5>
             <p>
               Get ready for a revolutionary way to participate in airdrops!
-              Centher.io is introducing &quot;Airdrop as a Service,&quot; a
+              Sociaket is introducing &quot;Airdrop as a Service,&quot; a
               feature that streamlines the airdrop process. With this service,
               users can effortlessly discover, join, and receive airdrops from
               various blockchain projects without revealing their personal
@@ -48,11 +48,11 @@ const CentherUpcomingFeatures: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">Giveaway as a Service</h5>
             <p>
-              Centher.io is taking giveaways to the next level with
+              Sociaket is taking giveaways to the next level with
               &quot;Giveaway as a Service.&quot; This feature enables users to
               participate in giveaways hosted by creators and influencers while
               maintaining their privacy. By eliminating the need for personal
-              information, Centher.io ensures that your participation in
+              information, Sociaket ensures that your participation in
               giveaways is secure, transparent, and hassle-free.
             </p>
           </div>
@@ -60,7 +60,7 @@ const CentherUpcomingFeatures: NextPageWithLayout = () => {
             <h5 className="text-white">Wallet as a Service</h5>
             <p>
               Experience the convenience of managing your digital assets with
-              &quot;Wallet as a Service.&quot; Centher.io&apos;s integrated
+              &quot;Wallet as a Service.&quot; Sociaket&apos;s integrated
               wallet solution allows users to securely store, send, and receive
               cryptocurrencies while preserving their anonymity. Whether
               you&apos;re a seasoned crypto enthusiast or a newcomer, this
@@ -73,9 +73,9 @@ const CentherUpcomingFeatures: NextPageWithLayout = () => {
               Login Using Third-Party Authentication
             </h5>
             <p>
-              Centher.io understands the importance of accessibility and ease of
+              Sociaket understands the importance of accessibility and ease of
               use. That&apos;s why we&apos;re introducing &quot;Login Using
-              Third-Party Authentication.&quot; Users can now access Centher.io
+              Third-Party Authentication.&quot; Users can now access Sociaket
               using their preferred third-party authentication providers, such
               as Google, Facebook, or Apple, while maintaining their anonymity
               on our platform. This feature streamlines the login process and
@@ -85,16 +85,14 @@ const CentherUpcomingFeatures: NextPageWithLayout = () => {
           <div className="pt-5">
             <div className="flex flex-col gap-3">
               <p>
-                These upcoming features demonstrate Centher.io&apos;s ongoing
-                commitment to providing a secure, private, and user-friendly
-                environment for all its users. Whether you&apos;re engaging in
-                airdrops, giveaways, managing your crypto assets, or accessing
-                the platform, Centher.io empowers you to explore the digital
-                world with confidence. Stay tuned for these exciting additions
-                and continue to enjoy the benefits of a privacy-centric platform
-                that puts you in control of your online experience. Join
-                Centher.io and be a part of the future of secure, anonymous, and
-                user-centric online interactions.
+                These upcoming features show Sociaket&apos;s ongoing work
+                to give you a secure, private, and easy to use place online.
+                Whether you join airdrops and giveaways, manage crypto assets,
+                or sign in to the platform, Sociaket lets you explore the
+                digital world with confidence. Watch for these additions and
+                keep enjoying a platform that puts you in control of your
+                online experience. Join Sociaket and be part of secure,
+                anonymous, and user centered online interaction.
               </p>
             </div>
           </div>

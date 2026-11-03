@@ -23,7 +23,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
           <div>
             <p>
               Let&apos;s get into a step-by-step-guide on how to Create your
-              first Staking Project! First of all, you will need to be a Centher
+              first Staking Project! First of all, you will need to be a Sociaket
               Citizen in order to benefit from this Service. If you haven&apos;t
               gotten your Passport yet,{" "}
               <a
@@ -32,7 +32,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
                 rel="noopener noreferrer"
                 className="text-gradient"
               >
-                Buy Centher Citizenship here.
+                Buy Sociaket Citizenship here.
               </a>
             </p>
             <p>
@@ -49,7 +49,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
               alt="what is staking"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <p>
             The Staking Form will appear on screen and indicate all mandatory
@@ -92,7 +92,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
               alt="what is staking"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <div className="flex flex-col gap-4">
             <p>
@@ -197,19 +197,19 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
               </p>
             </div>
             <div>
-              <h5 className="text-white">Show on Centher</h5>
+              <h5 className="text-white">Show on Sociaket</h5>
               <p>
                 {" "}
                 The staking for is a Software As A Service so it can be used
-                inside or outside of Centher for your project. If you want to
+                inside or outside of Sociaket for your project. If you want to
                 show your project on your on landing page, select FALSE, if you
-                want Centher to advertise your project on the platform choose
-                TRUE. Showing the project on Centher costs 1 BNB. Talk to our
+                want Sociaket to advertise your project on the platform choose
+                TRUE. Showing the project on Sociaket costs 1 BNB. Talk to our
                 support team at &nbsp;
                 <a href="mailto:info@centher.io" className="text-gradient">
                   info@centher.io
                 </a>
-                &nbsp; to have your project set up outside of Centher platform.
+                &nbsp; to have your project set up outside of Sociaket platform.
               </p>
             </div>
             <div>
@@ -218,7 +218,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
                 {" "}
                 If you are going to provide a Liquidity Pool for the rewards
                 payout select TRUE, if you select FALSE and at the same time you
-                select TRUE on Show on Centher your project will be flagged as
+                select TRUE on Show on Sociaket your project will be flagged as
                 dangerous.
               </p>
             </div>
@@ -241,7 +241,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
               alt="what is staking"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <div className="flex flex-col gap-4">
             <div>
@@ -273,7 +273,7 @@ const HowToCreateStakingProject: NextPageWithLayout = () => {
               alt="what is staking"
               className="w-full lg:w-9/12 mx-auto"
             />
-            <h6 className="text-grayText text-[10px]">Image source: Centher</h6>
+            <h6 className="text-grayText text-[10px]">Image source: Sociaket</h6>
           </div>
           <div className="flex flex-col gap-4">
             <p>

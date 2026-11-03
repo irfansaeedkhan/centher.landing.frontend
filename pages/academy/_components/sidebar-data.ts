@@ -1,6 +1,6 @@
 export const AcademySidebarData = [
   {
-    section_title: "What is Centher.io?",
+    section_title: "What is Sociaket?",
     articles: [
       {
         title: "Features",
@@ -11,7 +11,7 @@ export const AcademySidebarData = [
           "Marketplace NFT",
           "Staking as a Service",
           "Token Launchpad",
-          "Introducing Centher Citizenship",
+          "Introducing Sociaket Citizenship",
           "Connecting with Metamask",
           "Connecting with Wallet For Dummies",
         ],
@@ -380,7 +380,7 @@ export const AcademySidebarData = [
           "Start Date",
           "Reward Release Start",
           "Claim Period",
-          "Show on Centher",
+          "Show on Sociaket",
           "Liquidity Pool Provided",
           "Minimum Stakable Amount",
           "Maximum Stakable Amount",
