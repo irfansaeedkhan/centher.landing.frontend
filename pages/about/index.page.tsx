@@ -8,7 +8,7 @@ import { Button } from "./_components/button";
 const About: NextPageWithLayout = () => {
   return (
     <div>
-      <h1>About Page</h1>
+      <h1>About Sociaket</h1>
       <Button>Internal Button</Button>
     </div>
   );
