@@ -97,7 +97,7 @@ const SociaketFeatures: NextPageWithLayout = () => {
               <p>Elevate Your Digital Realm Experience! 🚀</p>
               <p>
                 Welcome to a revolutionary world where innovation meets
-                empowerment—Sociaket Citizenship, the pinnacle of your digital
+                empowerment: Sociaket Citizenship, the pinnacle of your digital
                 journey! More than just a status, it&apos;s a passport to
                 unparalleled possibilities, designed to enhance your digital
                 presence and supercharge your ventures. Let&apos;s dive into the
@@ -122,7 +122,7 @@ const SociaketFeatures: NextPageWithLayout = () => {
               </p>
               <p>🚀 Staking Projects: Multiply Your Digital Holdings</p>
               <p>
-                Sociaket Citizenship isn&apos;t just about static assets—it&apos;s
+                Sociaket Citizenship isn&apos;t just about static assets, it&apos;s
                 about growth! Dive into the world of staking and watch your
                 digital holdings flourish. Stake your tokens with ease, earn
                 rewards, and be part of a dynamic ecosystem that values your
@@ -153,7 +153,7 @@ const SociaketFeatures: NextPageWithLayout = () => {
               <p>
                 Embark on this journey, where your digital aspirations take
                 flight, and the possibilities are as limitless as your
-                imagination. Don&apos;t miss out—secure your Sociaket Citizenship
+                imagination. Don&apos;t miss out, secure your Sociaket Citizenship
                 today and redefine what&apos;s possible in the digital realm!
                 🚀✨
               </p>
