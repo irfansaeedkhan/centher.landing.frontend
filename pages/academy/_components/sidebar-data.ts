@@ -4,7 +4,7 @@ export const AcademySidebarData = [
     articles: [
       {
         title: "Features",
-        path: "/academy/centher-features",
+        path: "/academy/sociaket-features",
         article_sections: [
           "Social Media",
           "Chat Service",
@@ -18,7 +18,7 @@ export const AcademySidebarData = [
       },
       {
         title: "Upcoming Features",
-        path: "/academy/centher-upcoming-features",
+        path: "/academy/sociaket-upcoming-features",
         article_sections: [
           "Airdrop as a Service",
           "Giveaway as a Service",
@@ -28,7 +28,7 @@ export const AcademySidebarData = [
       },
       {
         title: "Plans For The Next Few Months",
-        path: "/academy/centher-future-plans",
+        path: "/academy/sociaket-future-plans",
         article_sections: [
           "Freedom of Choice",
           "Streamlined Experience",
