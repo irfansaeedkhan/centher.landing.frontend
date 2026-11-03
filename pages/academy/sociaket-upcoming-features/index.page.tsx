@@ -13,8 +13,8 @@ const SociaketUpcomingFeatures: NextPageWithLayout = () => {
       <Image
         width={925}
         height={420}
-        src="/images/centher-upcoming-features-banner.png"
-        alt="what is staking"
+        src="/images/sociaket-upcoming-features-banner.png"
+        alt="Sociaket upcoming features banner"
         className="w-full"
       />
       <div className="content p-5 lg:p-8 text-grayText text-sm font-normal">
