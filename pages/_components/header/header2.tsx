@@ -101,7 +101,7 @@ function Header2() {
         >
           <div className="flex flex-col p-4 md:p-0 w-full items-center justify-between">
             <div className="flex w-full text-center items-center gap-2">
-              <Link href="/academy/centher-features">
+              <Link href="/academy/sociaket-features">
                 <Button
                   title="Sociaket Academy"
                   variant="borderless"
@@ -128,7 +128,7 @@ function Header2() {
         >
           <div className="flex flex-col p-4 md:p-0 mt-4 min-h-[90vh] w-full items-center justify-between pt-12">
             <div className="flex flex-col w-full text-center items-center">
-              <Link href="/academy/centher-features">
+              <Link href="/academy/sociaket-features">
                 <Button
                   title="Sociaket Academy"
                   variant="borderless"
