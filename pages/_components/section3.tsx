@@ -20,7 +20,7 @@ const Section3 = () => {
       <div className="flex flex-col-reverse px-3 items-center lgTab:flex-row-reverse  justify-between  gap-0 lgTab:gap-16 maxWidth">
         <div className="w-[80%] mx-auto lgTab:w-[40%] lgTab:mx-0">
           <Image
-            src="/images/privacy.png"
+            src="/images/privacy.webp"
             alt="Three levels of privacy illustration"
             width={540}
             height={540}

@@ -9,7 +9,7 @@ const Section4 = () => {
     <div className="flex flex-col-reverse px-3  lgTab:flex-row items-center justify-between gap-0 lgTab:gap-16 maxWidth lgTab:px-4 pt-6 lgTab:pt-0">
       <div className="mt-[40px] lgTab:mt-0 w-[80%] mx-auto lgTab:w-[40%] lgTab:mx-0">
         <Image
-          src="/images/censorship.png"
+          src="/images/censorship.webp"
           alt="Freedom from censorship illustration"
           width={540}
           height={540}

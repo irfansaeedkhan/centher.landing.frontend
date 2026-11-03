@@ -9,7 +9,7 @@ const Section2 = () => {
     <div className="flex flex-col-reverse  lgTab:flex-row px-3 items-start lgTab:items-center justify-between  gap-0 lgTab:gap-16 maxWidth lgTab:px-4 pt-6 lgTab:pt-0 ">
       <div className="-mt-[30px] lgTab:mt-0 w-[80%] mx-auto lgTab:w-[40%] lgTab:mx-0">
         <Image
-          src="/images/speaker.png"
+          src="/images/speaker.webp"
           alt="Freedom of speech illustration"
           width={540}
           height={540}

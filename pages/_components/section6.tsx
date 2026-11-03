@@ -9,7 +9,7 @@ const Section6 = () => {
     <div className="flex flex-col-reverse px-3  lgTab:flex-row items-center justify-between gap-0 lgTab:gap-16 maxWidth lgTab:px-4 pt-12 lgTab:pt-0">
       <div className="mt-[20px] lgTab:mt-0 w-[80%] mx-auto lgTab:w-[40%] lgTab:mx-0">
         <Image
-          src="/images/Metaverse.png"
+          src="/images/Metaverse.webp"
           alt="NFT Metaverse Marketplace illustration"
           width={540}
           height={540}
