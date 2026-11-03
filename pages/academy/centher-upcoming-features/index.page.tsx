@@ -4,7 +4,7 @@ import Image from "next/image";
 import { PageLayout } from "@/layouts";
 import { NextPageWithLayout } from "@/pages/_app.page";
 
-const CentherUpcomingFeatures: NextPageWithLayout = () => {
+const SociaketUpcomingFeatures: NextPageWithLayout = () => {
   return (
     <div>
       <h2 className="text-gradient text-20px font-semibold pt-6 px-4 pb-6 lg:px-8 lg:pt-10">
@@ -102,8 +102,8 @@ const CentherUpcomingFeatures: NextPageWithLayout = () => {
   );
 };
 
-CentherUpcomingFeatures.getLayout = (page) => {
+SociaketUpcomingFeatures.getLayout = (page) => {
   return <PageLayout Layout={"academy"}>{page}</PageLayout>;
 };
 
-export default CentherUpcomingFeatures;
+export default SociaketUpcomingFeatures;
