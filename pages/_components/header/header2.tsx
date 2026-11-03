@@ -101,13 +101,6 @@ function Header2() {
         >
           <div className="flex flex-col p-4 md:p-0 w-full items-center justify-between">
             <div className="flex w-full text-center items-center gap-2">
-              <Link href="/academy/sociaket-features">
-                <Button
-                  title="Sociaket Academy"
-                  variant="borderless"
-                  className="btnTest"
-                />
-              </Link>
               <Link href="https://sociaket-app.vercel.app">
                 <Button
                   title="Launch app NOW!"
@@ -128,16 +121,6 @@ function Header2() {
         >
           <div className="flex flex-col p-4 md:p-0 mt-4 min-h-[90vh] w-full items-center justify-between pt-12">
             <div className="flex flex-col w-full text-center items-center">
-              <Link href="/academy/sociaket-features">
-                <Button
-                  title="Sociaket Academy"
-                  variant="borderless"
-                  className="btnTest"
-                  onClick={() => {
-                    setIsOpen(false);
-                  }}
-                />
-              </Link>
               <div className="h-[1px] bg-[#202027] w-full mt-1 mb-8" />
               <Link href="https://sociaket-app.vercel.app">
                 <Button
