@@ -35,8 +35,8 @@ const Section5 = () => {
           </h2>
           <div className="flex flex-col gap-5 [&>*]:text-17px  [&>*]:text-grayLight [&>*]:font-medium [&>*]:leading-7 max-w-[656px]">
             <p>
-              With CENTHER you can launch tokenize all your assets whether it is
-              a startup or a Personality Token.
+              With SOCIAKET, you can turn any asset into a token, from a
+              startup to a Personality Token.
             </p>
             <p>
               We want to value projects but especially personalities, because it

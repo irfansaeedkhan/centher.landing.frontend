@@ -124,7 +124,7 @@ const BlockchainTechnicalLevel: NextPageWithLayout = () => {
             <h5 className="text-white">Public and Private Keys</h5>
             <p>
               {" "}
-              Participants in the network have a pair of cryptographic keys—a
+              Participants in the network have a pair of cryptographic keys, a
               public key for receiving assets or information and a private key
               for signing transactions. The private key must be kept secret, as
               it provides control over a user&apos;s assets on the blockchain.

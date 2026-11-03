@@ -3,12 +3,12 @@ import Head from "next/head";
 
 const SITE_URL = "https://centher.io";
 const DESCRIPTION =
-  "Centher.io Is The First Decentralized Social NFTwork With You At Centher!";
+  "Sociaket Is The First Decentralized Social NFT Network With You At The Center!";
 
 const MetaHead = () => {
   return (
     <Head>
-      <title>Centher.io — The First Social NFTwork</title>
+      <title>Sociaket, The First Social NFT Network</title>
 
       <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
@@ -17,16 +17,16 @@ const MetaHead = () => {
         content="width=device-width, initial-scale=1.0"
       />
       <meta name="description" content={DESCRIPTION} />
-      <meta name="keywords" content="Centher,Centher.io,login,sign up" />
-      <meta name="author" content="Centher.io" />
+      <meta name="keywords" content="Sociaket,login,sign up" />
+      <meta name="author" content="Sociaket" />
       <meta name="robots" content="index, follow" />
       <link rel="canonical" href={`${SITE_URL}/`} />
 
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="Centher.io — The First Social NFTwork" />
+      <meta property="og:title" content="Sociaket, The First Social NFT Network" />
       <meta property="og:description" content={DESCRIPTION} />
       <meta property="og:url" content={`${SITE_URL}/`} />
-      <meta property="og:site_name" content="Centher.io" />
+      <meta property="og:site_name" content="Sociaket" />
       <meta
         property="og:image"
         itemProp="image"
@@ -39,7 +39,7 @@ const MetaHead = () => {
       <meta name="twitter:description" content={DESCRIPTION} />
       <meta
         name="twitter:title"
-        content="Centher.io — The First Social NFTwork"
+        content="Sociaket, The First Social NFT Network"
       />
       <meta
         name="twitter:image"

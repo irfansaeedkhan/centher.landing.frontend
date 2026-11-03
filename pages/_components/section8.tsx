@@ -125,14 +125,15 @@ const Section8 = () => {
               <div className="cardhead">
                 <h3 className="subHeading text-white">
                   How to Register on <br className="hidden mdTab:block" />
-                  <span className="animationText">Centher.io ?</span>
+                  <span className="animationText">Sociaket ?</span>
                 </h3>
                 <p className="mt-5 text-17px font-medium text-grayLight max-w-[530px]">
-                  You will learn how to become a member of Centher Platform in
+                  You will learn how to become a member of Sociaket Platform in
                   just a few easy steps.
                 </p>
               </div>
               <VideoBox Videolink="https://www.youtube.com/embed/73FEEvoL-5c" />
+              <VideoBox Videolink="https://www.youtube.com/embed/VIDEO_ID" />
               <div className="cardFooter mt-9">
                 <TabLine />
               </div>
@@ -143,15 +144,16 @@ const Section8 = () => {
               <div className="cardhead">
                 <h3 className="subHeading text-white">
                   How to Register on <br className="hidden mdTab:block" />
-                  <span className="animationText">Centher.io </span>
+                  <span className="animationText">Sociaket </span>
                   Using Referral Link ?
                 </h3>
                 <p className="mt-5 text-17px font-medium text-grayLight max-w-[530px]">
-                  You will learn how to become a member of Centher Platform
+                  You will learn how to become a member of Sociaket Platform
                   using referral link in just a few easy steps.
                 </p>
               </div>
               <VideoBox Videolink="https://www.youtube.com/embed/sYSiZRJvY_Q" />
+              <VideoBox Videolink="https://www.youtube.com/embed/VIDEO_ID" />
               <div className="cardFooter mt-9">
                 <TabLine />
               </div>
@@ -169,6 +171,7 @@ const Section8 = () => {
                 </p>
               </div>
               <VideoBox Videolink="https://www.youtube.com/embed/SX0DKogFvT8" />
+              <VideoBox Videolink="https://www.youtube.com/embed/VIDEO_ID" />
               <div className="cardFooter mt-9">
                 <TabLine />
               </div>
@@ -179,10 +182,10 @@ const Section8 = () => {
               <div className="cardhead">
                 <h1 className="subHeading text-white">
                   How to Register on <br />
-                  <span className="animationText">Centher.io ?</span>
+                  <span className="animationText">Sociaket ?</span>
                 </h1>
                 <h2 className="mt-5 text-17px font-medium text-grayLight max-w-[530px]">
-                  You will learn how to be a member of Centher Platform Platform
+                  You will learn how to be a member of Sociaket Platform Platform
                   in few and easy steps.
                 </h2>
               </div>

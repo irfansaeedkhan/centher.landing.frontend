@@ -31,8 +31,8 @@ const Section6 = () => {
             purpose, no prospect of accessibility to anything.
           </p>
           <p>
-            On CENTHER we have focused on the opportunities that the world of
-            NFTs can give us by already opening up avenues for the future.
+            On SOCIAKET, we focus on what NFTs make possible and open paths
+            into that future now.
           </p>
           <p>
             We believe that NFTs will be the digital property certificates in
