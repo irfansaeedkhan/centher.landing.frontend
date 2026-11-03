@@ -22,7 +22,7 @@ const FAQS: NextPageWithLayout = () => {
         <div className="flex flex-col gap-3">
           <h5 className="text-white">
             <a
-              href="https://centher.io/academy/blockchain-work-at-technical-level"
+              href="https://sociaket.vercel.app/academy/blockchain-work-at-technical-level"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gradient"
@@ -38,7 +38,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/environmental-implications-of-blockchain-mining"
+                href="https://sociaket.vercel.app/academy/environmental-implications-of-blockchain-mining"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -56,7 +56,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/how-can-blockchain-enhance-supply-chain-transparency"
+                href="https://sociaket.vercel.app/academy/how-can-blockchain-enhance-supply-chain-transparency"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -74,7 +74,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/role-of-blockchain-in-identity-verification"
+                href="https://sociaket.vercel.app/academy/role-of-blockchain-in-identity-verification"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -92,7 +92,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/role-of-blockchain-in-identity-verification"
+                href="https://sociaket.vercel.app/academy/role-of-blockchain-in-identity-verification"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -110,7 +110,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/how-can-blockchain-be-used-in-healthcare-industry"
+                href="https://sociaket.vercel.app/academy/how-can-blockchain-be-used-in-healthcare-industry"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -128,7 +128,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/how-can-blockchain-enhance-voting-systems"
+                href="https://sociaket.vercel.app/academy/how-can-blockchain-enhance-voting-systems"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -145,7 +145,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/implications-of-blockchain-for-financial-industry"
+                href="https://sociaket.vercel.app/academy/implications-of-blockchain-for-financial-industry"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -164,7 +164,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/what-are-the-ethical-considerations-of-blockchain-technology"
+                href="https://sociaket.vercel.app/academy/what-are-the-ethical-considerations-of-blockchain-technology"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -182,7 +182,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/how-does-blockchain-intersect-with-emerging-technologies-like-artificial-intelligence"
+                href="https://sociaket.vercel.app/academy/how-does-blockchain-intersect-with-emerging-technologies-like-artificial-intelligence"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -200,7 +200,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/what-are-the-limitations-and-scalability-challenges-of-blockchain-networks"
+                href="https://sociaket.vercel.app/academy/what-are-the-limitations-and-scalability-challenges-of-blockchain-networks"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"
@@ -218,7 +218,7 @@ const FAQS: NextPageWithLayout = () => {
           <div>
             <h5 className="text-white">
               <a
-                href="https://centher.io/academy/what-are-some-promising-real-world-use-cases-of-blockchain-technology"
+                href="https://sociaket.vercel.app/academy/what-are-some-promising-real-world-use-cases-of-blockchain-technology"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gradient"

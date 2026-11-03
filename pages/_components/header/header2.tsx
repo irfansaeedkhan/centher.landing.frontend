@@ -108,7 +108,7 @@ function Header2() {
                   className="btnTest"
                 />
               </Link>
-              <Link href="https://centher-app.vercel.app">
+              <Link href="https://sociaket-app.vercel.app">
                 <Button
                   title="Launch app NOW!"
                   variant="primary"
@@ -139,7 +139,7 @@ function Header2() {
                 />
               </Link>
               <div className="h-[1px] bg-[#202027] w-full mt-1 mb-8" />
-              <Link href="https://centher-app.vercel.app">
+              <Link href="https://sociaket-app.vercel.app">
                 <Button
                   title="Launch app NOW!"
                   variant="primary"
@@ -156,7 +156,7 @@ function Header2() {
                   &copy;SOCIAKET Decentralized Autonomous Organization All rights
                   reserved.{" "}
                   <a
-                    href="https://centher-app.vercel.app/terms"
+                    href="https://sociaket-app.vercel.app/terms"
                     target="_blank"
                     rel="noreferrer"
                     className="ml-1 inline-block text-xs smTab:text-sm font-semibold text-grayLight underline"

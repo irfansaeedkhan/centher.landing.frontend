@@ -1,7 +1,7 @@
 import React from "react";
 import Head from "next/head";
 
-const SITE_URL = "https://centher.io";
+const SITE_URL = "https://sociaket.vercel.app";
 const DESCRIPTION =
   "Sociaket Is The First Decentralized Social NFT Network With You At The Center!";
 
